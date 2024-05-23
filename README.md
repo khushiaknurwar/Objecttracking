@@ -10,9 +10,4 @@ Operation System: Windows 10
 IDE: Visual Studio 2017
 OpenCV version: 4.1.0
 
-Introduction to build OpenCV programs on Visual Studio:
-http://docs.opencv.org/master/d6/d8a/tutorial_windows_visual_studio_Opencv.html
 
-Preview:
-
-alt text# Objecttracking
